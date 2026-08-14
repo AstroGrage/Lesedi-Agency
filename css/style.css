@@ -49,7 +49,7 @@ https://templatemo.com/tm-581-kind-heart-charity
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #084298;
+  --primary-color:                #031736;
   --secondary-color:              #5a6f80;
   --section-bg-color:             #f0f8ff;
   --site-footer-bg-color:         #44525d;
@@ -357,7 +357,7 @@ strong {
 }
 
 .navbar-brand {
-  color: var(--primary-color);
+  color: #031736;
   font-size: var(--h6-font-size);
   font-weight: var(--font-weight-bold);
 }
@@ -368,7 +368,7 @@ strong {
 }
 
 .navbar-brand small {
-  color: var(--secondary-color);
+  color: #031736;
   display: block;
   font-size: 10px;
   line-height: normal;
@@ -529,7 +529,7 @@ strong {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background: rgb(0, 0, 80);
+  background: #031736;
   padding-top: 10px;
   padding-bottom: 5px;
 }
@@ -924,7 +924,7 @@ blockquote::before {
 
 .cta-section::after {
   content: "";
-  border: 20px solid #e7ad00;
+  border: 20px solid #a37a00 !important;
   border-radius: 50%;
   position: absolute;
   bottom: -100px;
@@ -959,7 +959,7 @@ blockquote::before {
 
 .testimonial-section::after {
   content: "";
-  background: #e7ad00;
+  background: #a37a00 !important;
   border-radius: 50%;
   position: absolute;
   bottom: -110px;
@@ -1540,7 +1540,7 @@ blockquote::before {
 
   .about-image {
     width: inherit;
-    height: 450px;
+    height: 250px;
   }
 
   .volunteer-image {
