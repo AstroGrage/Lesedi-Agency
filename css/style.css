@@ -784,7 +784,7 @@ strong {
   NEWS         
 -----------------------------------------*/
 .news-detail-header-section {
-  background-image: url('../images/img/Reimagine.jpg');
+  background-image: url('../images/img/Growth.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1535,7 +1535,7 @@ blockquote::before {
   }
 
   blockquote {
-    padding: 70px 30px 30px 30px;
+    padding: 15px 30px 30px 30px;
   }
 
   .about-image {
